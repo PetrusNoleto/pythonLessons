@@ -1,0 +1,1 @@
+Pergunta: Escreva um programa que irá encontrar todos esses números que são divisíveis por (3 , 5 e 7), mas não são um múltiplo de (8 e 2) entre 2000 e 10001. Os números obtidos devem ser impressos em uma sequência separada por vírgulas em uma única linha.
